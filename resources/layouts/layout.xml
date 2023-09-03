@@ -1,0 +1,8 @@
+<layout id="WatchFace">
+    <!--<label id="HourLabel" x="54" y="-30" font="@Fonts.azeret_bold_100" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="MinuteLabel" x="center" y="50" font="@Fonts.azeret_bold_100" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />-->
+    <label id="HourLabel" x="58" y="-24" font="@Fonts.roboto_mono_100" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="MinuteLabel" x="center" y="58" font="@Fonts.roboto_mono_100" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="DayWeekLabel" x="144" y="4" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+    <label id="DayLabel" x="144" y="18" font="Graphics.FONT_NUMBER_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_WHITE" />
+</layout>

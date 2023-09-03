@@ -1,0 +1,35 @@
+info face="Bungee" size=-100 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=254 base=163 scaleW=256 scaleH=256 pages=2 packed=0 alphaChnl=0 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="bungee_100_0.png"
+page id=1 file="bungee_100_1.png"
+chars count=15
+char id=48   x=0     y=0     width=63    height=74    xoffset=5     yoffset=90    xadvance=73    page=0  chnl=15
+char id=49   x=56    y=0     width=53    height=72    xoffset=4     yoffset=91    xadvance=60    page=1  chnl=15
+char id=50   x=60    y=148   width=57    height=72    xoffset=3     yoffset=91    xadvance=64    page=0  chnl=15
+char id=51   x=118   y=148   width=56    height=72    xoffset=4     yoffset=91    xadvance=64    page=0  chnl=15
+char id=52   x=0     y=148   width=59    height=72    xoffset=6     yoffset=91    xadvance=71    page=0  chnl=15
+char id=53   x=175   y=147   width=56    height=72    xoffset=5     yoffset=91    xadvance=65    page=0  chnl=15
+char id=54   x=128   y=0     width=60    height=73    xoffset=5     yoffset=91    xadvance=69    page=0  chnl=15
+char id=55   x=0     y=0     width=55    height=72    xoffset=3     yoffset=91    xadvance=63    page=1  chnl=15
+char id=56   x=64    y=0     width=63    height=74    xoffset=4     yoffset=90    xadvance=71    page=0  chnl=15
+char id=57   x=189   y=0     width=60    height=73    xoffset=4     yoffset=90    xadvance=69    page=0  chnl=15
+char id=58   x=110   y=0     width=29    height=64    xoffset=5     yoffset=99    xadvance=38    page=1  chnl=15
+char id=65   x=0     y=75    width=63    height=72    xoffset=5     yoffset=91    xadvance=73    page=0  chnl=15
+char id=66   x=64    y=75    width=63    height=72    xoffset=6     yoffset=91    xadvance=73    page=0  chnl=15
+char id=97   x=128   y=74    width=63    height=72    xoffset=5     yoffset=91    xadvance=73    page=0  chnl=15
+char id=98   x=192   y=74    width=63    height=72    xoffset=6     yoffset=91    xadvance=73    page=0  chnl=15
+kernings count=14
+kerning first=48  second=51  amount=-1  
+kerning first=49  second=52  amount=-3  
+kerning first=50  second=52  amount=-1  
+kerning first=51  second=52  amount=-1  
+kerning first=51  second=55  amount=-1  
+kerning first=53  second=55  amount=-1  
+kerning first=54  second=51  amount=-1  
+kerning first=54  second=52  amount=-1  
+kerning first=54  second=55  amount=-2  
+kerning first=55  second=56  amount=-1  
+kerning first=56  second=51  amount=-1  
+kerning first=56  second=52  amount=-1  
+kerning first=56  second=55  amount=-1  
+kerning first=57  second=51  amount=-1  

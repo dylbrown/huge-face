@@ -1,0 +1,6 @@
+<resources>
+<font id="bungee_80" filename="bungee_80.fnt" antialias="false" />
+<font id="bungee_100" filename="bungee_100.fnt" antialias="false" />
+<font id="azeret_bold_100" filename="azeret_bold_100.fnt" antialias="false" />
+<font id="roboto_mono_100" filename="roboto_mono_100.fnt" antialias="false" />
+</resources>
